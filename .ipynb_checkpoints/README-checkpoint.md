@@ -53,27 +53,27 @@ print("Sum:", np.sum(arr))
 
 <!-- Row 1: Reshape -->
 <p align="center">
-  <img src="screenshots/reshape1.png" width="45%"/>
-  <img src="screenshots/reshape2.png" width="45%"/>
+  <img src="Screenshots/reshape1.png" width="45%"/>
+  <img src="Screenshots/reshape2.png" width="45%"/>
 </p>
 
 <!-- Row 2: Types -->
 <p align="center">
-  <img src="screenshots/type1.png" width="45%"/>
-  <img src="screenshots/type2.png" width="45%"/>
+  <img src="Screenshots/type1.png" width="45%"/>
+  <img src="Screenshots/type2.png" width="45%"/>
 </p>
 
 <!-- Row 3: Indexing & Slicing -->
 <p align="center">
-  <img src="screenshots/indexing.png" width="30%"/>
-  <img src="screenshots/slicing1.png" width="30%"/>
-  <img src="screenshots/slicing2.png" width="30%"/>
+  <img src="Screenshots/indexing.png" width="30%"/>
+  <img src="Screenshots/slicing1.png" width="30%"/>
+  <img src="Screenshots/slicing2.png" width="30%"/>
 </p>
 
 <!-- Row 4: Operations -->
 <p align="center">
-  <img src="screenshots/opr1.png" width="45%"/>
-  <img src="screenshots/opr2.png" width="45%"/>
+  <img src="Screenshots/opr1.png" width="45%"/>
+  <img src="Screenshots/opr2.png" width="45%"/>
 </p>
 
 
